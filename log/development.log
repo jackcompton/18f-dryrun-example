@@ -1,0 +1,42 @@
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-11 15:24:15 -0400
+Processing by DemoController#index as HTML
+  Rendered demo/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 177ms (Views: 157.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/demo.css?body=1" for 127.0.0.1 at 2015-03-11 15:24:16 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-11 15:24:16 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-11 15:24:16 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-11 15:24:16 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-11 15:24:16 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2015-03-11 15:27:21 -0400
+Processing by DemoController#index as HTML
+  Rendered demo/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 107ms (Views: 90.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/demo.css?body=1" for 127.0.0.1 at 2015-03-11 15:27:22 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-11 15:27:22 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-11 15:27:22 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-11 15:27:22 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-11 15:27:22 -0400
